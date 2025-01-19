@@ -18,15 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-url: "https://lukaszs1942.github.io"
-baseurl: ""
+url: "https://lukaszs1942.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
 
 title: Lukasz Blog
 email: ls1942@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Website for storing some personal notes and thoughts.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lukasz_ls
 github_username:  lukaszs1942
 
@@ -44,13 +42,3 @@ plugins:
 # their entries' file path in the `include:` list.
 #
 # exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
