@@ -1,7 +1,7 @@
-title: My Jekyll Blog
+title: My Blog
 description: A blog about my journey and experiences.
 author:
-  name: Your Name
+  name: Lukasz
   email: your.email@example.com
 url: https://yourusername.github.io/my-jekyll-blog
 baseurl: ""
