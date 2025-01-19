@@ -8,3 +8,5 @@ baseurl: ""
 paginate: 5
 markdown: kramdown
 theme: minima
+source: .
+destination: ./_site
