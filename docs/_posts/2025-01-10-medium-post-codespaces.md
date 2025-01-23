@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Medium post - github codespaces"
-date: 2023-10-10 12:00:00 -0000
+date: 2025-01-10 12:00:00 -0000
 categories: writeup
 ---
 I was quite suprised about possibility to pre configure codespace, so i wrote short article and published on medium:
