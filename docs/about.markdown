@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-My name is Lukasz and in cyber security professional.
+My name is Lukasz and Im cyber security professional.
 
