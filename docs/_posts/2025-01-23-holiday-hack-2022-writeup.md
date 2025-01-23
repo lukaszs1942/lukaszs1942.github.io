@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kringlecon Holiday Hack Write-up 2023"
+title: "Kringlecon Holiday Hack Write-up 2022"
 date: 2025-01-23 12:00:00 -0000
 categories: writeup
 ---
